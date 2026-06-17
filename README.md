@@ -13,64 +13,53 @@
 
 # 📖 Project Overview
 
-This repository contains Python exercises completed during my **Data Technician Bootcamp** and expanded through self-study.
+This repository showcases Python projects completed during my **Data Technician Bootcamp**, where I developed a strong foundation in programming and computational thinking.
 
-The projects focus on building a solid programming foundation by using variables, user input, conditional statements, loops, and functions to solve real-world coding challenges and create interactive console applications.
+The projects demonstrate the use of **variables**, **data types**, **`print()`** and **`input()`** functions, **type casting**, **conditional statements**, and **`for`** and **`while`** loops to build logical, interactive programs. Through practical coding exercises, I created applications capable of performing calculations, processing user input, automating repetitive tasks, and solving programming challenges such as the classic **FizzBuzz** problem.
 
----
-
-# 🚀 Skills Demonstrated
-
-## 🐍 Python Fundamentals
-
-* Variables
-* Data Types
-* `print()` Function
-* `input()` Function
-* Type Casting (`int()`, `float()`, `str()`)
-* Arithmetic Operators
+These projects strengthened my understanding of Python fundamentals while developing problem-solving, logical reasoning, and programming best practices.
 
 ---
 
-## 🔀 Decision Making
+## 🚀 Skills Demonstrated
 
-* `if`
-* `elif`
-* `else`
-* Comparison Operators
-* Logical Operators
-* Boolean Expressions
+### 🐍 Python Fundamentals
 
----
+- Variables & Data Types
+- `print()` & `input()` Functions
+- Type Casting (`int()`, `float()`, `str()`)
+- Arithmetic Operators
 
-## 🔁 Loops
+### 🔀 Decision Making
 
-* `for` Loops
-* `while` Loops
-* Nested Loops
-* Iteration
+- `if`, `elif`, `else`
+- Comparison Operators
+- Logical Operators
+- Boolean Expressions
 
----
+### 🔁 Iteration & Loops
 
-## 💻 User Interaction
+- `for` Loops
+- `while` Loops
+- Nested Loops
+- Loop Control
 
-* Accepting User Input
-* Interactive Console Programs
-* Input Validation
-* Output Formatting
+### 💻 User Interaction
 
----
+- Interactive Console Applications
+- Input Validation
+- User Input Processing
+- Output Formatting
 
-## 🧠 Problem Solving
+### 🧠 Problem Solving
 
-* FizzBuzz Challenge
-* Calculator Programs
-* Temperature Converter
-* Number Guessing Game
-* Odd & Even Checker
-* Positive / Negative Number Checker
-* Multiples of 3 & 5
-* Unit Conversions
+- Programming Logic
+- Algorithm Development
+- FizzBuzz Challenge
+- Calculator Programs
+- Number Guessing Game
+- Temperature Converter
+- Unit Conversions
 
 ---
 
@@ -155,18 +144,23 @@ Through these projects I developed practical experience in:
 ### 🐍 Python Fundamentals
 Demonstrates the use of variables, data types, `print()` and `input()` functions to create interactive programs and perform basic calculations.
 
+<img width="1142" height="233" alt="image" src="https://github.com/user-attachments/assets/b4b5e936-d9bc-40d6-a0f7-0aaa42a6c5fe" />
+
+---
+
 ### 🔀 Decision Making & User Input
 Examples of Python programs using type casting, conditional statements (`if`, `elif`, `else`), and user input to build logical, interactive applications.
+
+<img width="567" height="267" alt="image" src="https://github.com/user-attachments/assets/5b8d73ca-b7d6-4bb2-91e8-567be4dce290" />
+
+---
 
 ### 🔁 Loops & Problem Solving
 Practical exercises using `for` and `while` loops to automate repetitive tasks and strengthen programming logic.
 
-<img width="1337" height="542" alt="image" src="https://github.com/user-attachments/assets/ddf2ee9b-94bc-43e0-98a6-956739c8990d" />
-<img width="1337" height="542" alt="image" src="https://github.com/user-attachments/assets/b0c8a287-1830-4fd4-aa1d-96b0b746e29b" />
-<img width="1221" height="737" alt="image" src="https://github.com/user-attachments/assets/fd80af0e-aa42-4953-9e3d-fd17852a89c9" />
-<img width="1392" height="503" alt="image" src="https://github.com/user-attachments/assets/08cd0075-a346-4f1e-ba16-eabfb714c7e2" />
+<img width="702" height="293" alt="image" src="https://github.com/user-attachments/assets/e1f04c6b-96dd-41ad-acd5-cd8ae8d10247" />
 
-
+---
 
 ## 👩‍💻 Author
 
