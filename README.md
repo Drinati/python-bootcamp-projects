@@ -150,6 +150,23 @@ Through these projects I developed practical experience in:
 * Developing problem-solving skills
 
 ---
+📸 **Screenshots**
+
+### 🐍 Python Fundamentals
+Demonstrates the use of variables, data types, `print()` and `input()` functions to create interactive programs and perform basic calculations.
+
+### 🔀 Decision Making & User Input
+Examples of Python programs using type casting, conditional statements (`if`, `elif`, `else`), and user input to build logical, interactive applications.
+
+### 🔁 Loops & Problem Solving
+Practical exercises using `for` and `while` loops to automate repetitive tasks and strengthen programming logic.
+
+<img width="1337" height="542" alt="image" src="https://github.com/user-attachments/assets/ddf2ee9b-94bc-43e0-98a6-956739c8990d" />
+<img width="1337" height="542" alt="image" src="https://github.com/user-attachments/assets/b0c8a287-1830-4fd4-aa1d-96b0b746e29b" />
+<img width="1221" height="737" alt="image" src="https://github.com/user-attachments/assets/fd80af0e-aa42-4953-9e3d-fd17852a89c9" />
+<img width="1392" height="503" alt="image" src="https://github.com/user-attachments/assets/08cd0075-a346-4f1e-ba16-eabfb714c7e2" />
+
+
 
 ## 👩‍💻 Author
 
